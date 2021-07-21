@@ -5,6 +5,7 @@
 - 🔭 I’m currently working on [iOS Keyboard](https://github.com/alimovlex/old_russian_ios_keyboard) 
 - 🌱 I’m extending my knowledge in Embedded IoT C/C++.
 - 👯 I’m looking to collaborate on Open Source Projects and Hackathons.
+- 💬 You can schedule the interview with me [here](https://calendly.com/alimovlex/interview)
 #### 📄 Education 
 I've learned a lot from 👉🏻 [Stanford CS193p](https://github.com/duliodenis/cs193p-Fall-2017)
 
