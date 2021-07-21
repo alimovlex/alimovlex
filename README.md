@@ -6,4 +6,5 @@
 - 🌱 I’m extending my knowledge in Objective-C++
 - 👯 I’m looking to collaborate on Open Source Projects and Hackathons
 
-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alimovlex&layout=compact)](https://github.com/mohit01-beep/github-readme-stats)
+![Аλέξιος GitHub stats](https://github-readme-stats.vercel.app/api?username=alimovlex&show_icons=true&theme=synthwave)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alimovlex&layout=compact)](https://github.com/mohit01-beep/github-readme-stats)
