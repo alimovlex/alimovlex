@@ -1,11 +1,15 @@
-### Hi there 👋
+### Hi 👋 I'm Alex!
 <img alt="Visitors" src="https://komarev.com/ghpvc/?username=alimovlex&style=flat&labelColor=black&logo=github&label=PROFILE+VIEWS&color=29bf12"/>
 <img alt="Last Commit" src="https://img.shields.io/github/last-commit/alimovlex/alimovlex?logo=markdown&label=LAST+UPDATE&color=29bf12&style=flat">
 
-- 🔭 I’m currently working on iOS projects using Swift
-- 🌱 I’m extending my knowledge in Embedded IoT C/C++
-- 👯 I’m looking to collaborate on Open Source Projects and Hackathons
-- 💬 You can schedule the interview with me [here](https://calendly.com/alimovlex/interview)
+- 🔭 I’m currently working on iOS projects using Swift.
+- 🌱 I’m extending my knowledge in Embedded IoT C/C++.
+- 👯 I’m looking to collaborate on Open Source Projects and Hackathons.
+#### 📄 Education 
+I've learned a lot from 👉🏻 [Stanford CS193p](https://github.com/duliodenis/cs193p-Fall-2017)
+
+#### 📝 Blogs posts
+I regularly write articles on 👉🏻 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=blogger&logoColor=white&link=https://lena-chamna.netlify.app/)](https://alimovlex.medium.com/)
 
 **Languages and Tools:**  
 
