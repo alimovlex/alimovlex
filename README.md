@@ -2,7 +2,7 @@
 <img alt="Visitors" src="https://komarev.com/ghpvc/?username=alimovlex&style=flat&labelColor=black&logo=github&label=PROFILE+VIEWS&color=29bf12"/>
 <img alt="Last Commit" src="https://img.shields.io/github/last-commit/alimovlex/alimovlex?logo=markdown&label=LAST+UPDATE&color=29bf12&style=flat">
 
-- 🔭 I’m currently working on [iOS Keyboard](https://github.com/alimovlex/old_russian_ios_keyboard) 
+- 🔭 I’m currently working on [iOS Keyboard](https://github.com/alimovlex/ESP32) 
 - 🌱 I’m extending my knowledge in Embedded IoT C/C++.
 - 👯 I’m looking to collaborate on Open Source Projects and Hackathons.
 - 💬 You can schedule the interview with me [here](https://calendly.com/alimovlex/interview)
