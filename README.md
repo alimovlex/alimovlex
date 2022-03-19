@@ -1,5 +1,5 @@
 ### Hi 👋 I'm Alex!
-<img alt="Visitors" src="https://komarev.com/ghpvc/?username=alimovlex&style=flat&labelColor=black&logo=github&label=PROFILE+VIEWS&color=29bf12"/>
+
 <img alt="Last Commit" src="https://img.shields.io/github/last-commit/alimovlex/alimovlex?logo=markdown&label=LAST+UPDATE&color=29bf12&style=flat">
 
 - 🔭 I’m currently working on [ESP32 IoT](https://github.com/alimovlex/ESP32) 
