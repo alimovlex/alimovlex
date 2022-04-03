@@ -1,11 +1,11 @@
 ### Hi 👋 I'm Alex!
 
-- 🔭 I’m currently working on [ESP32 IoT](https://github.com/alimovlex/ESP32) 
-- 🌱 I’m extending my knowledge in Embedded IoT C/C++.
+- 🔭 I’m currently working on [iOS_IoT_App](https://github.com/alimovlex/Sandbox_iOS) 
+- 🌱 I’m extending my knowledge in Embedded IoT C/C++ and Swift Development.
 - 👯 I’m looking to collaborate on Open Source Projects and Hackathons.
 - 💬 You can schedule the interview with me [here](https://calendly.com/alimovlex/interview)
 #### 📄 Education 
-I've learned a lot from 👉🏻 [Stanford CS193p](https://github.com/duliodenis/cs193p-Fall-2017)
+I've learned a lot from [Stanford CS193p](https://github.com/duliodenis/cs193p-Fall-2017)
 
 #### 📝 Blogs posts
 I regularly write articles on 👉🏻 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=blogger&logoColor=white&link=https://lena-chamna.netlify.app/)](https://alimovlex.medium.com/)
