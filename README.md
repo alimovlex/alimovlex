@@ -1,7 +1,5 @@
 ### Hi 👋 I'm Alex!
 
-<img alt="Last Commit" src="https://img.shields.io/github/last-commit/alimovlex/alimovlex?logo=markdown&label=LAST+UPDATE&color=29bf12&style=flat">
-
 - 🔭 I’m currently working on [ESP32 IoT](https://github.com/alimovlex/ESP32) 
 - 🌱 I’m extending my knowledge in Embedded IoT C/C++.
 - 👯 I’m looking to collaborate on Open Source Projects and Hackathons.
