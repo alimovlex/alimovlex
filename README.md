@@ -9,6 +9,7 @@ I've learned a lot from [Stanford CS193p](https://github.com/duliodenis/cs193p-F
 
 #### 📝 Blogs posts
 I regularly write articles on 👉🏻 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=blogger&logoColor=white&link=https://lena-chamna.netlify.app/)](https://alimovlex.medium.com/)
+#### Support
 You can support my work here 👉 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/A0A4K4L5R)
 
 **Languages and Tools:**  
