@@ -1,5 +1,5 @@
 ### Hi 👋 I'm Alex!
-
+<a href="https://stackoverflow.com/users/9865808/%d0%90%ce%bb%ce%ad%ce%be%ce%b9%ce%bf%cf%82"><img src="https://stackoverflow.com/users/flair/9865808.png" width="208" height="58" alt="profile for Аλέξιος at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Аλέξιος at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
 - 🔭 I’m currently working on [SynthMail](https://github.com/alimovlex/SynthMail) 
 - 🌱 I’m extending my knowledge in QT C/C++ and Swift Development.
 - 👯 I’m looking to collaborate on Open Source Projects and Hackathons.
