@@ -6,7 +6,7 @@
 - 🌱 I’m extending my knowledge in QT C/C++ and Swift Development.
 - 👯 I’m looking to collaborate on Open Source Projects and Hackathons.
 - 💬 You can schedule the interview with me [here](https://calendly.com/alimovlex/interview)
-- 📫 You can reach me here [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alimovlex/) [![Twitter](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white)](https://www.twitter.com/in/alimovlex/) 
+- 📫 You can reach me here [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alimovlex/) [![Twitter](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white)](https://www.twitter.com/alimovlex/) 
 #### 📄 Education 
 I've learned a lot from [Stanford CS193p](https://github.com/duliodenis/cs193p-Fall-2017)
               
