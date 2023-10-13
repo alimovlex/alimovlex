@@ -18,8 +18,11 @@ You can support my work here 👉 [![ko-fi](https://ko-fi.com/img/githubbutton_s
 ## :triangular_flag_on_post: Projects:
   | Name             | Link                              |                                                   
   |------------------|-----------------------------------|
-  | ngram       | https://github.com/alimovlex/ngram            |
-  | Synthhmail          | https://github.com/alimovlex/SynthMail       |
+  | ngram       | https://github.com/alimovlex/ngram     |
+  | Synthhmail  | https://github.com/alimovlex/SynthMail |
+  | ESP32       | https://github.com/alimovlex/ESP32     |
+  | STM32F103   | https://github.com/alimovlex/STM32F103 |
+  | Milandr 1986BE91T| https://github.com/alimovlex/Hardware  |
 
 **Languages and Tools:**  
 <img src="https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=white&style=for-the-badge" alt="ArchLinux" />
