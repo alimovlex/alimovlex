@@ -19,7 +19,7 @@ You can support my work here 👉 [![ko-fi](https://ko-fi.com/img/githubbutton_s
   | Name             | Link                              |                                                   
   |------------------|-----------------------------------|
   | ngram       | https://github.com/alimovlex/ngram     |
-  | Synthhmail  | https://github.com/alimovlex/SynthMail |
+  | SynthMail   | https://github.com/alimovlex/SynthMail |
   | ESP32       | https://github.com/alimovlex/ESP32     |
   | STM32F103   | https://github.com/alimovlex/STM32F103 |
   | Milandr 1986BE91T| https://github.com/alimovlex/Hardware  |
