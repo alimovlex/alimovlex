@@ -11,7 +11,7 @@
 - 🌱 I’m extending my knowledge in QT C/C++ and Swift Development.
 - 👯 I’m looking to collaborate on Open Source Projects and Hackathons.
 - 💬 You can schedule the interview with me [here](https://calendly.com/alimovlex/interview)
-- 📫 You can reach me here via email.
+- 📫 You can reach me via email.
 #### 📄 Education 
 I've learned a lot from [Stanford CS193p](https://github.com/duliodenis/cs193p-Fall-2017)
               
@@ -43,14 +43,13 @@ You can support my work here 👉 [![ko-fi](https://ko-fi.com/img/githubbutton_s
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ios/ios.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/macos/macos.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/xcode/xcode.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alimovlex&show_icons=true&locale=en&layout=compact" alt="alimovlex" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alimovlex&show_icons=true&locale=en" alt="alimovlex" /></p-->
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code-->
 
 <div align="left">
     <h2 style="border-bottom: none;">Languages I know</h2>
     <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=c,cpp,swift,bash&theme=dark&perline=6" />
+      <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=alimovlex&show_icons=true&locale=en&layout=compact" alt="alimovlex" /></p>
     </a>
     <h2 style="border-bottom: none;">Frameworks I work with</h2>
     <a href="https://skillicons.dev">
@@ -58,6 +57,11 @@ You can support my work here 👉 [![ko-fi](https://ko-fi.com/img/githubbutton_s
     </a>
     <h2 style="border-bottom: none;">Tools I use</h2>
     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=raspberrypi,nginx,clion,vscode,cmake,vim,git,stackoverflow,&theme=dark&perline=7" />
+        <img src="https://skillicons.dev/icons?i=raspberrypi,nginx,clion,vscode,cmake,vim,git&theme=dark&perline=7" />
     </a>
 </div>
+
+<div align="left">
+    <img src="https://github-readme-stats.vercel.app/api?username=alimovlex&show_icons=true&hide_border=true&bg_color=181825&text_color=cdd6f4&icon_color=f5c2e7&hide_title=true&include_all_commits=true&count_private=true&ring_color=f5c2e7&border_radius=8" style="margin-bottom: 20px;" />
+</div>
+<!--p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=alimovlex&show_icons=true&locale=en" alt="alimovlex" /></p-->
