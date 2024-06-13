@@ -8,11 +8,20 @@
 <!--p align="left"> <img src="https://komarev.com/ghpvc/?username=alimovlex&color=red" alt="Profile views" /> </p-->
 </div>
 
-- 🔭 I’m currently working on [ShellBot](https://github.com/alimovlex/ShellBot) 
-- 🌱 I’m extending my knowledge in QT C/C++ and Swift Development.
-- 👯 I’m looking to collaborate on Open Source Projects and Hackathons.
-- 💬 You can schedule the interview with me [here](https://calendly.com/alimovlex/interview)
-- 📫 You can reach me via email.
+```cpp
+class Alex : Human {
+    public:
+    // Programming
+    std::vector<std::string> projects{ "ESP32", "ShellBot" };
+    std::vector<std::string> favorite_languages{ "C/C++", "Swift", "Bash" };
+    // Skills and experience
+    std::vector<std::string> skills{ "WebSocket", "WebRTC", "TCP/IP", "REST",
+                                     "Bluetooth", "BLE", "Protocol Buffers",
+                                     "Apple MFI", "UIKit", "GCD", "CoreData",
+                                     "Cocoapods", "Alamofire", "AVFoundation",
+                                     "MVC", "MVVM", "CoreLocation", "MapKit"};
+};
+```
 #### 📄 Education 
 I've learned a lot from [Stanford CS193p](https://github.com/duliodenis/cs193p-Fall-2017)
               
