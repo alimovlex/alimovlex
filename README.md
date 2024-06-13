@@ -20,14 +20,19 @@ I regularly write articles on 👉🏻 [![Tech Blog Badge](http://img.shields.io
 #### Support
 You can support my work here 👉 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/A0A4K4L5R)
 
-## :triangular_flag_on_post: Projects:
-  | Name             | Link                              |                                                   
-  |------------------|-----------------------------------|
-  | ShellBot    | https://github.com/alimovlex/ShellBot  |
-  | SynthMail   | https://github.com/alimovlex/SynthMail |
-  | ESP32       | https://github.com/alimovlex/ESP32     |
-  | STM32F103   | https://github.com/alimovlex/STM32F103 |
-  | Milandr 1986BE91T| https://github.com/alimovlex/Hardware  |
+#### :triangular_flag_on_post: Projects:
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alimovlex&repo=Shellbot&theme=dark" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alimovlex&repo=Sandbox_Android&theme=dark" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alimovlex&repo=SynthMail&theme=dark" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alimovlex&repo=ESP32&theme=dark" />
+</a>
 
 **I'm experienced in following OSes**  
 <img src="https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=white&style=for-the-badge" alt="ArchLinux" />
