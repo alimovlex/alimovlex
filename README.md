@@ -31,16 +31,16 @@ I regularly write articles on 👉🏻 [![Tech Blog Badge](http://img.shields.io
 You can support my work here 👉 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/A0A4K4L5R)
 
 #### :triangular_flag_on_post: Projects:
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alimovlex&repo=Shellbot&theme=dark" />
+<a href="https://github.com/alimovlex/ShellBot">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alimovlex&repo=ShellBot&theme=dark" />
 </a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/alimovlex/Sandbox_Android">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alimovlex&repo=Sandbox_Android&theme=dark" />
 </a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/alimovlex/SynthMail">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alimovlex&repo=SynthMail&theme=dark" />
 </a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/alimovlex/ESP32">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alimovlex&repo=ESP32&theme=dark" />
 </a>
 
