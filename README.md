@@ -40,9 +40,9 @@ You can support my work here 👉 [![ko-fi](https://ko-fi.com/img/githubbutton_s
 <a href="https://github.com/alimovlex/SynthMail">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alimovlex&repo=SynthMail&theme=dark" />
 </a>
-<!--a href="https://github.com/alimovlex/ESP32">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alimovlex&repo=ESP32&theme=dark" />
-</a-->
+<a href="https://github.com/alimovlex/ESP32_Sandbox">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alimovlex&repo=ESP32_Sandbox&theme=dark" />
+</a>
 
 **I'm experienced in following OSes**  
 <img src="https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=white&style=for-the-badge" alt="ArchLinux" />
