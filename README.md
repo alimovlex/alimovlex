@@ -32,7 +32,8 @@ I regularly write articles on 👉🏻 [![Tech Blog Badge](http://img.shields.io
 #### Support
 You can support my work here 👉 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/A0A4K4L5R)
 
-#### :triangular_flag_on_post: Projects:
+<div align="left">
+    <h2 style="border-bottom: none;">Projects</h2> 
 <a href="https://github.com/alimovlex/ShellBot">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alimovlex&repo=ShellBot&theme=dark" />
 </a>
@@ -45,13 +46,13 @@ You can support my work here 👉 [![ko-fi](https://ko-fi.com/img/githubbutton_s
 <a href="https://github.com/alimovlex/ESP32">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alimovlex&repo=ESP32&theme=dark" />
 </a>
-
-**I'm experienced in following OSes**  
+<div align="left">
+    <h2 style="border-bottom: none;">I'm experienced in following OSes</h2> 
 <img src="https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=white&style=for-the-badge" alt="ArchLinux" />
-![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
-![Mac OS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
-![Ios](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
-
+<img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white" />
+<img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0" />
+<img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white" />
+</div>
 <!--code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
@@ -81,8 +82,4 @@ You can support my work here 👉 [![ko-fi](https://ko-fi.com/img/githubbutton_s
 <p align="left">
 	<img width="450em" src="https://github-readme-stats.vercel.app/api?username=alimovlex&show_icons=true&include_all_commits=true&count_private=true&hide_border=false" />
     <img width="450em" src="https://github-readme-streak-stats.herokuapp.com/?user=alimovlex&include_all_commits=true&hide_border=false" />
-</p>
-
-<p align="left">
-	
 </p>
