@@ -74,4 +74,3 @@ You can support my work here 👉 [![ko-fi](https://ko-fi.com/img/githubbutton_s
         <img src="https://skillicons.dev/icons?i=raspberrypi,nginx,clion,vscode,cmake,vim,git&theme=dark&perline=7" />
     </a>
 </div>
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=alimovlex&show_icons=false&locale=en&theme=tokyonight" alt="alimovlex" /></p>
