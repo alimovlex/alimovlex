@@ -46,10 +46,12 @@ You can support my work here 👉 [![ko-fi](https://ko-fi.com/img/githubbutton_s
 <a href="https://github.com/alimovlex/ESP32">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alimovlex&repo=ESP32&theme=dark" />
 </a>
+</div>
 <div align="left">
     <h2 style="border-bottom: none;">I'm experienced in following OSes</h2> 
 <img src="https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=white&style=for-the-badge" alt="ArchLinux" />
 <img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white" />
+<img src="https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi" />
 <img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0" />
 <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white" />
 </div>
@@ -67,7 +69,7 @@ You can support my work here 👉 [![ko-fi](https://ko-fi.com/img/githubbutton_s
     <h2 style="border-bottom: none;">Languages I know</h2>
     <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=c,cpp,swift,bash&theme=dark&perline=6" />
-      <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=alimovlex&show_icons=true&locale=en&layout=compact" alt="alimovlex" /></p>
+      <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=alimovlex&show_icons=true&locale=en&layout=compact&title_color=58A6FF&text_color=8C949E&icon_color=89E153&bg_color=0D1117&hide_border=false" alt="alimovlex" /></p>
     </a>
     <h2 style="border-bottom: none;">Frameworks I work with</h2>
     <a href="https://skillicons.dev">
@@ -75,11 +77,12 @@ You can support my work here 👉 [![ko-fi](https://ko-fi.com/img/githubbutton_s
     </a>
     <h2 style="border-bottom: none;">Tools I use</h2>
     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=raspberrypi,nginx,clion,vscode,cmake,vim,git&theme=dark&perline=7" />
+        <img src="https://skillicons.dev/icons?i=docker,nginx,clion,vscode,cmake,vim,git&theme=dark&perline=7" />
     </a>
 </div>
 
 <p align="left">
-	<img width="450em" src="https://github-readme-stats.vercel.app/api?username=alimovlex&show_icons=true&include_all_commits=true&count_private=true&hide_border=false" />
-    <img width="450em" src="https://github-readme-streak-stats.herokuapp.com/?user=alimovlex&include_all_commits=true&hide_border=false" />
+    <img width="450em" src="https://github-readme-stats.vercel.app/api?username=alimovlex&show_icons=true&include_all_commits=true&count_private=true&hide_border=false&title_color=58A6FF&text_color=8C949E&icon_color=89E153&bg_color=0D1117" />
+    <p><img align="center" src="https://github-contributor-stats.vercel.app/api?username=alimovlex&limit=2&theme=dark&combine_all_yearly_contributions=true" /></p>
+    <img width="450em" src="https://github-readme-streak-stats.herokuapp.com/?user=alimovlex&include_all_commits=true&hide_border=false&theme=dark" />
 </p>
