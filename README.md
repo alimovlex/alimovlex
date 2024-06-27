@@ -1,6 +1,6 @@
 <div align="center">
 <h1 style="border-bottom: none;">Hi, I'm Alex!
-<a href="https://stackoverflow.com/users/9865808/%d0%90%ce%bb%ce%ad%ce%be%ce%b9%ce%bf%cf%82"><img src="https://stackoverflow.com/users/flair/9865808.png" width="208" height="58" alt="profile for Аλέξιος at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Аλέξιος at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
+<a href="https://stackoverflow.com/users/9865808/%d0%90%ce%bb%ce%ad%ce%be%ce%b9%ce%bf%cf%82"><img src="https://stackoverflow.com/users/flair/9865808.png?theme=dark" width="208" height="58" alt="profile for Аλέξιος at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Аλέξιος at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
 </h1>
 <a href="https://github.com/alimovlex?tab=repositories&sort=stargazers">
 <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/alimovlex?color=f5c2e7&style=for-the-badge&labelColor=181825&logo=star"/></a>
