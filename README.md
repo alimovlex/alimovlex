@@ -67,11 +67,12 @@ You can support my work here 👉 [![ko-fi](https://ko-fi.com/img/githubbutton_s
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/xcode/xcode.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code-->
 
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Languages I know</b>
+
 <div align="left">
-    <h2 style="border-bottom: none;">Languages I know</h2>
     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=c,cpp,swift,bash&theme=dark&perline=6" />
-      <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=alimovlex&show_icons=true&locale=en&layout=compact&title_color=58A6FF&text_color=8C949E&icon_color=89E153&bg_color=0D1117&hide_border=false" alt="alimovlex" /></p>
+        <img src="https://skillicons.dev/icons?i=c,cpp,swift,bash,python&theme=dark&perline=6" />
+      <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=alimovlex&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"  alt="0xabdulkhalid"/></p>
     </a>
     <h2 style="border-bottom: none;">Frameworks I work with</h2>
     <a href="https://skillicons.dev">
@@ -79,10 +80,11 @@ You can support my work here 👉 [![ko-fi](https://ko-fi.com/img/githubbutton_s
     </a>
     <h2 style="border-bottom: none;">Tools I use</h2>
     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=docker,nginx,clion,vscode,cmake,vim,git&theme=dark&perline=7" />
+        <img src="https://skillicons.dev/icons?i=docker,nginx,vscode,clion,pycharm,androidstudio,sqlite,cmake,vim,git&theme=dark&perline=7" />
     </a>
 </div>
 
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 <p align="left">
     <img width="450em" src="https://github-readme-stats.vercel.app/api?username=alimovlex&show_icons=true&include_all_commits=true&count_private=true&hide_border=false&title_color=58A6FF&text_color=8C949E&icon_color=89E153&bg_color=0D1117" />
     <p><img align="center" src="https://github-contributor-stats.vercel.app/api?username=alimovlex&limit=2&theme=dark&combine_all_yearly_contributions=true" /></p>
