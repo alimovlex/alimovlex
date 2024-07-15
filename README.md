@@ -83,13 +83,13 @@ You can support my work here 👉 [![ko-fi](https://ko-fi.com/img/githubbutton_s
     </a>
     <h2 style="border-bottom: none;">Tools I use</h2>
     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=docker,nginx,vscode,clion,pycharm,androidstudio,sqlite,selenium,cmake,python,vim,git&theme=dark&perline=7" />
+        <img src="https://skillicons.dev/icons?i=docker,nginx,vscode,clion,pycharm,androidstudio,sqlite,selenium,cmake,vim,git&theme=dark&perline=7" />
     </a>
 </div>
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 <p align="left">
-    <img width="450em" src="https://github-readme-stats.vercel.app/api?username=alimovlex&show_icons=true&include_all_commits=true&count_private=true&hide_border=false&title_color=58A6FF&text_color=8C949E&icon_color=89E153&bg_color=0D1117" />
+    <img width="450em" src="https://github-readme-stats.vercel.app/api?username=alimovlex&show_icons=true&include_all_commits=true&count_private=true&hide_border=false"/>
     <p><img align="center" src="https://github-contributor-stats.vercel.app/api?username=alimovlex&limit=2&theme=dark&combine_all_yearly_contributions=true" /></p>
     <img width="450em" src="https://github-readme-streak-stats.herokuapp.com/?user=alimovlex&include_all_commits=true&hide_border=false&theme=dark" />
 </p>
