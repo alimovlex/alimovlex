@@ -17,7 +17,7 @@ class Alex : Human {
     public:
     // Programming
     std::vector<std::string> projects{ "ESP32", "ShellBot" };
-    std::vector<std::string> favorite_languages{ "C/C++", "Swift", "Bash" };
+    std::vector<std::string> favorite_languages{ "C/C++", "Rust", "Swift", "Bash" };
     // Skills and experience
     std::vector<std::string> skills{ "WebSocket", "WebRTC", "TCP/IP", "REST",
                                      "Bluetooth", "BLE", "Protocol Buffers",
