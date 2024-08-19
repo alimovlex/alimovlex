@@ -35,21 +35,6 @@ I regularly write articles on 👉🏻 [![Tech Blog Badge](http://img.shields.io
 You can support my work here 👉 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/A0A4K4L5R)
 
 <div align="left">
-    <h2 style="border-bottom: none;">Projects</h2> 
-<a href="https://github.com/alimovlex/ShellBot">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alimovlex&repo=ShellBot&theme=dark" />
-</a>
-<a href="https://github.com/alimovlex/Sandbox_Android">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alimovlex&repo=Sandbox_Android&theme=dark" />
-</a>
-<a href="https://github.com/alimovlex/SynthMail">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alimovlex&repo=SynthMail&theme=dark" />
-</a>
-<a href="https://github.com/alimovlex/ESP32">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alimovlex&repo=ESP32&theme=dark" />
-</a>
-</div>
-<div align="left">
     <h2 style="border-bottom: none;">I'm experienced in following OSes</h2> 
 <img src="https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=white&style=for-the-badge" alt="ArchLinux" />
 <img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white" />
