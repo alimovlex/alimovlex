@@ -16,8 +16,8 @@
 class Alex : Human {
     public:
     // Programming
-    std::vector<std::string> projects{ "ESP32", "ShellBot" };
-    std::vector<std::string> favorite_languages{ "C/C++/C#", "Swift", "Bash" };
+    std::vector<std::string> projects{ "Sandbox_PS4", "Sandbox_ASM" };
+    std::vector<std::string> favorite_languages{ "C/C++/Assembly x86_64", "Swift", "Bash" };
     // Skills and experience
     std::vector<std::string> skills{ "WebSocket", "WebRTC", "TCP/IP", "REST",
                                      "Bluetooth", "BLE", "Protocol Buffers",
@@ -57,7 +57,7 @@ You can support my work here 👉 [![ko-fi](https://ko-fi.com/img/githubbutton_s
 <div align="left">
     <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=c,cpp,cs,swift,bash,python&theme=dark&perline=6" />
-      <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=alimovlex&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"  alt="0xabdulkhalid"/></p>
+      <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=alimovlex&show_icons=true&hide=HTML,CSS&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"  alt="0xabdulkhalid"/></p>
     </a>
     <h2 style="border-bottom: none;">Frameworks I work with</h2>
     <a href="https://skillicons.dev">
@@ -74,6 +74,9 @@ You can support my work here 👉 [![ko-fi](https://ko-fi.com/img/githubbutton_s
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 <p align="left">
-    <img width="450em" src="https://github-readme-stats.vercel.app/api?username=alimovlex&show_icons=true&include_all_commits=true&count_private=true&hide_border=false"/>
+    <!--img width="450em" src="https://github-readme-stats.vercel.app/api?username=alimovlex&show_icons=true&include_all_commits=true&count_private=true&hide_border=false"/-->
     <p><img align="center" src="https://github-contributor-stats.vercel.app/api?username=alimovlex&limit=2&theme=dark&combine_all_yearly_contributions=true" /></p>
+    <img src="https://github-readme-stats.vercel.app/api?username=alimovlex&%20GitHub%20Statistics&show_icons=true&theme=nord&include_all_commits=true&hide_border=true&card_width=600">
+<!--img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alimovlex&langs_count=10&hide=HTML&theme=nord&layout=compact&hide_border=true&card_width=600"-->
+<img src="https://github-readme-streak-stats.herokuapp.com?user=alimovlex&theme=nord&hide_border=true&card_width=600">
 </p>
