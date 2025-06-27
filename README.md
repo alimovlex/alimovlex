@@ -78,5 +78,5 @@ You can support my work here 👉 [![ko-fi](https://ko-fi.com/img/githubbutton_s
     <p><img align="center" src="https://github-contributor-stats.vercel.app/api?username=alimovlex&limit=2&theme=dark&combine_all_yearly_contributions=true" /></p>
     <img src="https://github-readme-stats.vercel.app/api?username=alimovlex&%20GitHub%20Statistics&show_icons=true&theme=nord&include_all_commits=true&hide_border=true&card_width=600">
 <!--img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alimovlex&langs_count=10&hide=HTML&theme=nord&layout=compact&hide_border=true&card_width=600"-->
-<img src="https://github-readme-streak-stats.herokuapp.com?user=alimovlex&theme=nord&hide_border=true&card_width=600">
+<!--img src="https://github-readme-streak-stats.herokuapp.com?user=alimovlex&theme=nord&hide_border=true&card_width=600"-->
 </p>
