@@ -56,7 +56,7 @@ You can support my work here 👉 [![ko-fi](https://ko-fi.com/img/githubbutton_s
 
 <div align="left">
     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=c,cpp,cs,swift,bash,python&theme=dark&perline=6" />
+        <img src="https://skillicons.dev/icons?i=c,cpp,swift,bash&theme=dark&perline=6" />
       <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=alimovlex&show_icons=true&hide=HTML,CSS&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"  alt="0xabdulkhalid"/></p>
     </a>
     <h2 style="border-bottom: none;">Frameworks I work with</h2>
@@ -68,6 +68,6 @@ You can support my work here 👉 [![ko-fi](https://ko-fi.com/img/githubbutton_s
     </a>
     <h2 style="border-bottom: none;">Tools I use</h2>
     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=docker,nginx,vscode,clion,pycharm,rider,androidstudio,sqlite,selenium,cmake,vim,git&theme=dark&perline=7" />
+        <img src="https://skillicons.dev/icons?i=docker,nginx,vscode,clion,androidstudio,sqlite,selenium,cmake,vim,git,bsd,linux&theme=dark&perline=7" />
     </a>
 </div>
