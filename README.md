@@ -1,7 +1,5 @@
 <div align="center">
-<h1 style="border-bottom: none;">Hi, I'm Alex!
-<a href="https://stackoverflow.com/users/9865808/%d0%90%ce%bb%ce%ad%ce%be%ce%b9%ce%bf%cf%82"><img src="https://stackoverflow.com/users/flair/9865808.png?theme=dark" width="208" height="58" alt="profile for Аλέξιος at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Аλέξιος at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
-</h1>
+<h1 style="border-bottom: none;">Hi, I'm Alex!</h1>
 <a href="https://github.com/alimovlex?tab=repositories&sort=stargazers">
 <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/alimovlex?color=f5c2e7&style=for-the-badge&labelColor=181825&logo=star"/></a>
 <a style="text-decoration: none;" href="https://github.com/alimovlex">
@@ -26,6 +24,11 @@ class Alex : Human {
                                      "MVC", "MVVM", "CoreLocation", "MapKit"};
 };
 ```
+### 📊 GitHub Stats
+
+![bucanero's GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=alimovlex&theme=transparent) 
+![stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alimovlex&theme=transparent)
+
 #### 📄 Education 
 I've learned a lot from [Stanford CS193p](https://github.com/duliodenis/cs193p-Fall-2017)
               
@@ -42,15 +45,6 @@ You can support my work here 👉 [![ko-fi](https://ko-fi.com/img/githubbutton_s
 <img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0" />
 <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white" />
 </div>
-<!--code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/swift/swift.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ios/ios.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/macos/macos.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/xcode/xcode.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code-->
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Languages I know</b>
 
