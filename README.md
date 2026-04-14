@@ -24,6 +24,12 @@ class Alex : Human {
                                      "MVC", "MVVM", "CoreLocation", "MapKit"};
 };
 ```
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> My tech stack</b>
+
+| Languages | Frameworks & Tools |  
+| ------------------ | --------------------- |
+| [![Languages](https://skillicons.dev/icons?i=c,cpp,swift,bash)](https://skillicons.dev) | [![Frameworks](https://skillicons.dev/icons?i=qt,nodejs,webassembly,docker,nginx,androidstudio,sqlite,selenium,cmake,git,bsd,linux,raspberrypi)](https://skillicons.dev) |
+
 ### 📊 GitHub Stats
 
 ![alimovlex's GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=alimovlex&theme=transparent) 
@@ -37,18 +43,3 @@ I've learned a lot from [Stanford CS193p](https://github.com/duliodenis/cs193p-F
 I regularly write articles on 👉🏻 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=blogger&logoColor=white&link=https://lena-chamna.netlify.app/)](https://alimovlex.medium.com/)
 #### Support
 You can support my work here 👉 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/A0A4K4L5R)
-
-<div align="left">
-    <h2 style="border-bottom: none;">I'm experienced in following OSes</h2> 
-<img src="https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=white&style=for-the-badge" alt="ArchLinux" />
-<img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white" />
-<img src="https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi" />
-<img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0" />
-<img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white" />
-</div>
-
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> My tech stack</b>
-
-| Languages | Frameworks & Tools |  
-| ------------------ | --------------------- |
-| [![Languages](https://skillicons.dev/icons?i=c,cpp,swift,bash)](https://skillicons.dev) | [![Frameworks](https://skillicons.dev/icons?i=qt,nodejs,webassembly,docker,nginx,androidstudio,sqlite,selenium,cmake,git,bsd,linux)](https://skillicons.dev) |
