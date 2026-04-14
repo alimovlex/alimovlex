@@ -26,8 +26,9 @@ class Alex : Human {
 ```
 ### 📊 GitHub Stats
 
-![bucanero's GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=alimovlex&theme=transparent) 
+![alimovlex's GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=alimovlex&theme=transparent) 
 ![stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alimovlex&theme=transparent)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=alimovlex&theme=transparent)](https://git.io/streak-stats)
 
 #### 📄 Education 
 I've learned a lot from [Stanford CS193p](https://github.com/duliodenis/cs193p-Fall-2017)
