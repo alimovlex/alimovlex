@@ -47,22 +47,8 @@ You can support my work here 👉 [![ko-fi](https://ko-fi.com/img/githubbutton_s
 <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white" />
 </div>
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Languages I know</b>
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> My tech stack</b>
 
-<div align="left">
-    <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=c,cpp,swift,bash&theme=dark&perline=6" />
-      <!--p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=alimovlex&show_icons=true&hide=HTML,CSS&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"  alt="0xabdulkhalid"/></p-->
-    </a>
-    <h2 style="border-bottom: none;">Frameworks I work with</h2>
-    <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=qt&theme=dark" />
-        <img src="https://skillicons.dev/icons?i=nodejs&theme=dark" />
-        <img src="https://skillicons.dev/icons?i=dotnet&theme=dark" />
-        <img src="https://skillicons.dev/icons?i=webassembly&theme=dark" />
-    </a>
-    <h2 style="border-bottom: none;">Tools I use</h2>
-    <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=docker,nginx,vscode,clion,androidstudio,sqlite,selenium,cmake,vim,git,bsd,linux&theme=dark&perline=7" />
-    </a>
-</div>
+| Languages | Frameworks & Tools |  
+| ------------------ | --------------------- |
+| [![Languages](https://skillicons.dev/icons?i=c,cpp,swift,bash)](https://skillicons.dev) | [![Frameworks](https://skillicons.dev/icons?i=qt,nodejs,webassembly,docker,nginx,androidstudio,sqlite,selenium,cmake,git,bsd,linux)](https://skillicons.dev) |
