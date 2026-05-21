@@ -37,7 +37,7 @@ class Alex : Human {
 [![GitHub Streak](https://streak-stats.demolab.com/?user=alimovlex&theme=transparent)](https://git.io/streak-stats)
 
 #### 📄 Education 
-I've learned a lot from [Stanford CS193p](https://github.com/duliodenis/cs193p-Fall-2017)
+[![alalimov's 42 stats](https://badge.mediaplus.ma/darkblue/alalimov?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
               
 #### 📝 Blogs posts
 I regularly write articles on 👉🏻 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=blogger&logoColor=white&link=https://lena-chamna.netlify.app/)](https://alimovlex.medium.com/)
