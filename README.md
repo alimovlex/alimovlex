@@ -33,7 +33,7 @@ class Alex : Human {
 
 #### 📄 Education 
 [![alalimov's 42 stats](https://42cv.dev/api/badge/cmpg5znyb00090jt1k1dyqn8j/stats?cursusId=21&coalitionId=midnight)](https://42cv.dev/alalimov)
-[![alalimov's 42 stats](https://badge.mediaplus.ma/darkblue/alalimov?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
+<!--[![alalimov's 42 stats](https://badge.mediaplus.ma/darkblue/alalimov?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)-->
 
 ### 📊 GitHub Stats
 
