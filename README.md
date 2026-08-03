@@ -57,9 +57,9 @@ class Alex : Human {
 
 ### 📊 GitHub Stats
 
-![alimovlex's GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=alimovlex&theme=transparent) 
-![stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alimovlex&theme=transparent)
 [![GitHub Streak](https://streak-stats.demolab.com/?user=alimovlex&theme=transparent)](https://git.io/streak-stats)
+<!--![alimovlex's GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=alimovlex&theme=transparent) 
+![stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alimovlex&theme=transparent)-->
               
 #### 📝 Blogs posts
 I regularly write articles on 👉🏻 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=blogger&logoColor=white&link=https://lena-chamna.netlify.app/)](https://alimovlex.medium.com/)
