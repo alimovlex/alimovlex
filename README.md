@@ -30,7 +30,7 @@
 class Alex : Human {
     public:
     // Programming
-    std::vector<std::string> projects{ "Sandbox_PS4", "Sandbox_ASM", "Telegram_Bot"};
+    std::vector<std::string> projects{ "Sandbox_PS4", "Kutegram", "Telegram_Bot"};
     std::vector<std::string> favorite_languages{ "C/C++/Assembly x86_64", "Swift", "Bash" };
     // Skills and experience
     std::vector<std::string> skills{ "WebSocket", "WebRTC", "TCP/IP", "REST",
